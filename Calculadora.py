@@ -23,5 +23,5 @@ elif operador == "/":
 else:
     resultado = "Operador no válido"
 
-# Mostrar el resultado
+
 print(f"Resultado: {resultado}")
